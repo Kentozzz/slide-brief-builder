@@ -13,8 +13,15 @@ Claude Code用のSkillです。セミナーの周知文（告知文）と、Clau
 
 ## 使い方
 
-このリポジトリの `SKILL.md` を `~/.claude/skills/slide-brief-builder/SKILL.md` に配置してください。
-Claude Codeで `/slide-brief-builder` と入力すると呼び出せます。
+1. `~/.claude/skills/` の中に `slide-brief-builder` というディレクトリを作成する
+2. その中に `SKILL.md` というファイルを作成し、このリポジトリの [`SKILL.md`](./SKILL.md) の内容をそのまま貼り付ける
+3. Claude Codeで `/slide-brief-builder` と入力すると呼び出せる
+
+```
+~/.claude/skills/slide-brief-builder/SKILL.md
+```
+
+gitに慣れている場合は、このリポジトリを `~/.claude/skills/slide-brief-builder` としてクローンしても構いません。
 
 ## 前提
 
