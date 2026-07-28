@@ -21,8 +21,6 @@ Claude Code用のSkillです。セミナーの周知文（告知文）と、Clau
 ~/.claude/skills/slide-brief-builder/SKILL.md
 ```
 
-gitに慣れている場合は、このリポジトリを `~/.claude/skills/slide-brief-builder` としてクローンしても構いません。
-
 ## 前提
 
 - ClaudeDesign（デザインシステム選択・詳細確認画面が出るツール）に渡すブリーフを作ることを主眼にしています。
