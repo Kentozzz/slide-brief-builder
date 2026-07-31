@@ -19,6 +19,10 @@ version: 2.3.0
 - **録画**: 毎回行う。後日アーカイブを案内する（周知文の「その他」欄に毎回入る固定文。詳細はステップA3参照）
 - **テーマ領域**: AIの最新トレンド・使い方・効率化術
 - **画面比率**: 16:9固定（ステップB4で毎回聞き直さない）
+- **セミナー管理シート**: https://docs.google.com/spreadsheets/d/1qz0E-iet6lU-kpyJol7vIQt09DxfoKT3JLkXoinNhU0/edit?gid=0#gid=0
+  （過去のセミナー実施記録。ユーザーがURLを求めたら、中身は確認せずこのURLをそのまま提示する）
+- **イベントアンケートフォーム（回答）**: https://docs.google.com/spreadsheets/d/1EieSNh1-ecjs6zYrguTu6BP3gG2A0FaaWLTmgRfkx0I/edit?gid=766104643#gid=766104643
+  （過去のアンケート回答。ユーザーがURLを求めたら、中身は確認せずこのURLをそのまま提示する）
 
 ## 【このセミナーの狙い】
 
